@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: Ph.D. Student at University of Illinois, Urbana Champaign
+subtitle: Ph.D. Candidate at University of Illinois, Urbana Champaign
 
 profile:
   align: right
@@ -19,7 +19,7 @@ selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
 
-My name is **Yingbing Huang (黄滢冰)**, you can also call me **Wendy**. I’m a PhD student at the [Department of Electrical and Computer Engineering (ECE)](https://ece.illinois.edu/) at [University of Illinois at Urbana-Champaign (UIUC)](https://illinois.edu/) advised by [Prof. Deming Chen](https://dchen.ece.illinois.edu/).
+My name is **Yingbing Huang (黄滢冰)**, you can also call me **Wendy**. I’m a PhD candidate at the [Department of Electrical and Computer Engineering (ECE)](https://ece.illinois.edu/) at [University of Illinois at Urbana-Champaign (UIUC)](https://illinois.edu/) advised by [Prof. Deming Chen](https://dchen.ece.illinois.edu/).
 
 Before joining UIUC, I obtained my Bachelor’s degree with Honors at Cornell University in 2023, advised by [Prof. Wen Sun](https://wensun.github.io/). 
 
